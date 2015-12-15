@@ -1,0 +1,100 @@
+#u139-5,#u141-8
+{
+	display: block;
+	vertical-align: top;
+	position: fixed;
+}
+
+#u236
+{
+	background: #D9D9D9 url("../images/u236-grad.png") repeat-x left top;
+	background: -webkit-gradient(linear, center top, center bottom, from(#FFFFFF),color-stop(40%, #D9D9D9));
+	background: -webkit-linear-gradient(top,#FFFFFF ,#D9D9D9 40%);
+	background: linear-gradient(to bottom,#FFFFFF ,#D9D9D9 40%);
+}
+
+#u340
+{
+	background: -webkit-gradient(linear, center top, center bottom, from(#D9D9D9),color-stop(100%, #FFFFFF));
+	background: -webkit-linear-gradient(top,#D9D9D9 ,#FFFFFF 100%);
+	background: linear-gradient(to bottom,#D9D9D9 ,#FFFFFF 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#FFD9D9D9, endColorstr=#FFFFFFFF, GradientType=0);
+	-ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr='#FFD9D9D9', endColorstr='#FFFFFFFF', GradientType=0)";
+}
+
+#u96,#u138,#u349
+{
+	background-color: #4B2E83;
+}
+
+#u390
+{
+	background: #000000 url("../images/u390-grad.png") repeat-x left top;
+	background: -webkit-gradient(linear, center top, center bottom, from(#4B2E83),color-stop(26%, #000000));
+	background: -webkit-linear-gradient(top,#4B2E83 ,#000000 26%);
+	background: linear-gradient(to bottom,#4B2E83 ,#000000 26%);
+}
+
+#u472
+{
+	background: #D9D9D9 url("../images/u472-grad.png") repeat-x left top;
+	background: -webkit-gradient(linear, center top, center bottom, from(#000000),color-stop(26%, #D9D9D9));
+	background: -webkit-linear-gradient(top,#000000 ,#D9D9D9 26%);
+	background: linear-gradient(to bottom,#000000 ,#D9D9D9 26%);
+}
+
+#u96_align_to_page,#u138_align_to_page,#u236_align_to_page,#u349_align_to_page,#u390_align_to_page,#u472_align_to_page
+{
+	position: relative;
+}
+
+#u84,#u86,#u106,#u108,#u110,#u142,#u148,#u154,#u160,#u166,#u482,#u198,#u210,#u227,#u217,#u663,#u398,#u416,#u669,#u271,#u289,#u334,#u286,#u322,#u277,#u328,#u283,#u292,#u298,#u304,#u310,#u341,#u379,#u361,#u382,#u385,#u373,#u367,#u422,#u432,#u429,#u435,#u438,#u441,#u447,#u453,#u459,#u495,#u488,#u492,#u502,#u498,#u500,#u520,#u516,#u518,#u592,#u588,#u590,#u629,#u537,#u540,#u546,#u552,#u555,#u561,#u567,#u579,#u582,#u597,#u603,#u609,#u632
+{
+	background-color: transparent;
+	position: relative;
+}
+
+#u635
+{
+	background: #FFFFFF url("../images/u635-grad.png") repeat-x left top;
+	background: -webkit-gradient(linear, center top, center bottom, from(#D9D9D9),color-stop(50%, #FFFFFF));
+	background: -webkit-linear-gradient(top,#D9D9D9 ,#FFFFFF 50%);
+	background: linear-gradient(to bottom,#D9D9D9 ,#FFFFFF 50%);
+}
+
+#u638-3
+{
+	background-color: #B7A57A;
+	position: relative;
+}
+
+#u637-3
+{
+	background-color: #4B2E83;
+	position: relative;
+}
+
+#u640-3
+{
+	background-color: #D9D9D9;
+	position: relative;
+}
+
+#u639-3
+{
+	background-color: #85754D;
+	position: relative;
+}
+
+#u641-3
+{
+	background-color: #444444;
+}
+
+#u97-8,#u662-10,#u101-4,#u102-6,#u103-4,#u104-9,#u105-4,#u112-8,#u113-7,#u114-7,#u180-30,#u178-5,#u179-4,#u181-4,#u216-4,#u184-4,#u223-4,#u224-4,#u233-4,#u237-4,#u269-4,#u270-6,#u238-19,#u347-4,#u351-4,#u352-8,#u359-6,#u358-6,#u353-6,#u355-6,#u357-6,#u394-4,#u395-7,#u396-4,#u397-9,#u480-4,#u481-8,#u644-13,#u642-13,#u646-13,#u645-15,#u647-13,#u658-4,#u659-14,#u660-4,#u661-5
+{
+	display: block;
+	vertical-align: top;
+	position: relative;
+}
+

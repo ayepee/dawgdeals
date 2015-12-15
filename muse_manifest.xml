@@ -1,0 +1,111 @@
+<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="dawgdeals.com" resolutions="1x" timestamp="1450186175268">
+  <folder name="css">
+    <file name="site_global.css" crc="4052507572"/>
+    <file name="master_a-master.css" crc="407501823" ref="index"/>
+    <file name="index.css" crc="4171809654" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="196614522" ref="index"/>
+    <file name="museutils.js" crc="275725342" ref="index"/>
+    <file name="jquery.watch.js" crc="3999102769" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="206645848" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="iphone6s_gallery_white_medium.png" crc="4068560244" seo="true" ref="index"/>
+    <file name="u97-8.png" crc="4027451772" ref="index"/>
+    <file name="u662-10.png" crc="486400573" ref="index"/>
+    <file name="sign in.jpg" crc="109903936" seo="true" ref="index"/>
+    <file name="u101-4.png" crc="3839537663" ref="index"/>
+    <file name="u102-6.png" crc="122063300" ref="index"/>
+    <file name="u103-4.png" crc="3916854439" ref="index"/>
+    <file name="u104-9.png" crc="142124981" ref="index"/>
+    <file name="u105-4.png" crc="4087628591" ref="index"/>
+    <file name="img_0442.png" crc="238312816" seo="true" ref="index"/>
+    <file name="u112-8.png" crc="440635716" ref="index"/>
+    <file name="u113-7.png" crc="4176985665" ref="index"/>
+    <file name="976037_271881542956963_1262785592_o.png" crc="3892372336" seo="true" ref="index"/>
+    <file name="45593_155052334508184_2829731_n.png" crc="3956749566" seo="true" ref="index"/>
+    <file name="u114-7.png" crc="4238019812" ref="index"/>
+    <file name="welcome.jpg" crc="7951920" seo="true" ref="index"/>
+    <file name="restaurants.jpg" crc="4220382105" seo="true" ref="index"/>
+    <file name="wheel deal.jpg" crc="345424472" seo="true" ref="index"/>
+    <file name="u139-5.png" crc="87494607" ref="index"/>
+    <file name="u141-8.png" crc="4183926968" ref="index"/>
+    <file name="u180-30.png" crc="184379652" ref="index"/>
+    <file name="u178-5.png" crc="3792368714" ref="index"/>
+    <file name="u179-4.png" crc="3833453070" ref="index"/>
+    <file name="u181-4.png" crc="140696646" ref="index"/>
+    <file name="hw 3-2.jpg" crc="189289770" seo="true" ref="index"/>
+    <file name="hw 3 (2).jpg" crc="3876673452" seo="true" ref="index"/>
+    <file name="u216-4.png" crc="4186009335" ref="index"/>
+    <file name="screen shot 2015-12-14 at 41024 pm.jpg" crc="220065441" seo="true" ref="index"/>
+    <file name="u184-4.png" crc="4200492913" ref="index"/>
+    <file name="u223-4.png" crc="469039354" ref="index"/>
+    <file name="stickynotes.jpg" crc="3893379931" seo="true" ref="index"/>
+    <file name="u236-grad.png" crc="3842921522" ref="index"/>
+    <file name="stick 5.png" crc="3954909589" seo="true" ref="index"/>
+    <file name="stick1.png" crc="3778062213" seo="true" ref="index"/>
+    <file name="stick4.png" crc="241977340" seo="true" ref="index"/>
+    <file name="stick 6.png" crc="4126599522" seo="true" ref="index"/>
+    <file name="u224-4.png" crc="206870312" ref="index"/>
+    <file name="u233-4.png" crc="88306810" ref="index"/>
+    <file name="u237-4.png" crc="3890476120" ref="index"/>
+    <file name="u269-4.png" crc="489302752" ref="index"/>
+    <file name="u270-6.png" crc="3765816958" ref="index"/>
+    <file name="snapchat.png" crc="294863214" seo="true" ref="index"/>
+    <file name="actions_gallery_hw_medium.png" crc="420795314" seo="true" ref="index"/>
+    <file name="one59.png" crc="219725070" seo="true" ref="index"/>
+    <file name="one56 (1).png" crc="4197105487" seo="true" ref="index"/>
+    <file name="one47.png" crc="521598508" seo="true" ref="index"/>
+    <file name="u238-19.png" crc="110576039" ref="index"/>
+    <file name="img_1390.jpg" crc="4101569195" seo="true" ref="index"/>
+    <file name="img_1389.jpg" crc="3791445542" seo="true" ref="index"/>
+    <file name="img_1391.jpg" crc="176145827" seo="true" ref="index"/>
+    <file name="img_1392.jpg" crc="120028885" seo="true" ref="index"/>
+    <file name="screen shot 2015-12-15 at 124917 am.jpg" crc="508120846" seo="true" ref="index"/>
+    <file name="u347-4.png" crc="68639968" ref="index"/>
+    <file name="u351-4.png" crc="495528190" ref="index"/>
+    <file name="u352-8.png" crc="375617823" ref="index"/>
+    <file name="u359-6.png" crc="4101267339" ref="index"/>
+    <file name="ic_keyboard_arrow_down_white_48pt.png" crc="3858930023" seo="true" ref="index"/>
+    <file name="u358-6.png" crc="132594932" ref="index"/>
+    <file name="u353-6.png" crc="461588899" ref="index"/>
+    <file name="u355-6.png" crc="304493190" ref="index"/>
+    <file name="ic_keyboard_arrow_right_white_48pt.png" crc="381008381" seo="true" ref="index"/>
+    <file name="ic_keyboard_arrow_left_white_48pt.png" crc="345356340" seo="true" ref="index"/>
+    <file name="u357-6.png" crc="4032279470" ref="index"/>
+    <file name="u390-grad.png" crc="301863531" ref="index"/>
+    <file name="u394-4.png" crc="253152933" ref="index"/>
+    <file name="u395-7.png" crc="365158933" ref="index"/>
+    <file name="u396-4.png" crc="4176773852" ref="index"/>
+    <file name="u397-9.png" crc="164437614" ref="index"/>
+    <file name="nexusae0_youtube-thumb.png" crc="3873811454" seo="true" ref="index"/>
+    <file name="img_1385.jpg" crc="3886580826" seo="true" ref="index"/>
+    <file name="img_1386.jpg" crc="114295071" seo="true" ref="index"/>
+    <file name="img_1387.jpg" crc="113802274" seo="true" ref="index"/>
+    <file name="img_1388.jpg" crc="3831707614" seo="true" ref="index"/>
+    <file name="u472-grad.png" crc="150202156" ref="index"/>
+    <file name="u480-4.png" crc="216037167" ref="index"/>
+    <file name="u481-8.png" crc="4085261910" ref="index"/>
+    <file name="success sign in.jpg" crc="3968961355" seo="true" ref="index"/>
+    <file name="failed sign in.jpg" crc="3906453718" seo="true" ref="index"/>
+    <file name="winning wheel.jpg" crc="3879230081" seo="true" ref="index"/>
+    <file name="disabled wheel deal.jpg" crc="3953102527" seo="true" ref="index"/>
+    <file name="coupon.jpg" crc="4215386760" seo="true" ref="index"/>
+    <file name="map.jpg" crc="4031286497" seo="true" ref="index"/>
+    <file name="my deals.png" crc="4084478305" seo="true" ref="index"/>
+    <file name="qr code.png" crc="3815985639" seo="true" ref="index"/>
+    <file name="no coupons.png" crc="298751251" seo="true" ref="index"/>
+    <file name="u635-grad.png" crc="3853692151" ref="index"/>
+    <file name="u644-13.png" crc="144690645" ref="index"/>
+    <file name="u642-13.png" crc="188343690" ref="index"/>
+    <file name="u646-13.png" crc="4107811234" ref="index"/>
+    <file name="u645-15.png" crc="3787467603" ref="index"/>
+    <file name="u647-13.png" crc="532070386" ref="index"/>
+    <file name="u658-4.png" crc="327015857" ref="index"/>
+    <file name="u659-14.png" crc="4146420425" ref="index"/>
+    <file name="u660-4.png" crc="347981254" ref="index"/>
+    <file name="u661-5.png" crc="3947154825" ref="index"/>
+  </folder>
+  <file name="index.html" crc="3981841797" seo="true" mt="1450185930900" redirect="true"/>
+</manifest>
